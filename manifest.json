@@ -1,0 +1,19 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"name": "Power Dat Google Map Search Routing",
+	"version": "1.3",
+	"manifest_version": 2,
+	"description": "Select an address, right click and search it on Google Maps directly",
+	"permissions": [
+		"contextMenus"
+	],
+	"icons": {
+		"16": "icon16.png",
+		"48": "icon48.png",
+		"128": "icon128.png"
+	},
+	"background": {
+		"scripts": ["script.js"]
+	}
+}
