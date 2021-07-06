@@ -12,5 +12,5 @@ It's been modified to strip down numbers for easy selection on power dat!
 Save time and a lot of typing
 Enjoy
 
-
+( the built in powerdat maping sucks, that's why ...)
 ![image](https://github.com/AndrianBalanescu/Power-Dat-Google-Maps-Search-Routing/blob/main/1serach.png)
